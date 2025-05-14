@@ -7,17 +7,18 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Aarathi Devakumar's Personal Website # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Aarathi Devakumar
+headline: Sophomore Engineering Student at Texas A&M University
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Howdy! I'm Aarathi, a sophomore engineering student at Texas A&M University, aspiring to pursue a degree in mechanical engineering! 
+  My interests are in robotics and mechatronics, and I have experience in the subject starting from a young age. Ever since competing in middle school robotics with my Girl Scout Troop, I instantly fell in love with the process of designing a robot. I later researched various types of robots and was amazed by how they could help others live a better life and shape the world, and I strive to be part of that process. I have experience in machining, CAD, design, prototyping, and testing. I aim to discover ways to combine my technical experiences in robotics along with various fields such as defense or manufacturing, but particularly in fashion design, designing clothing that is stunning by aesthetics and automation. 
+  As a woman in STEM, I also aim to empower girls to find an interest in STEM by participating and organizing outreach programs. I currently have an engineering instagram that shares my experiences as a female engineering student: girlypopengineer.
+  Outside of robotics and design, I have a background in music. I have played piano for 13 years and the violin for 7 years. I continue playing the violin through the Texas A&M Chamber Orchestra and still play the piano for fun.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -33,14 +34,9 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: test    # https://www.linkedin.com/in/{your url slug} 
   github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
   instragram:       # https://instagram.com/{your url slug} 
   youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
+  discord:            # https://discord.com/users/{your url slug}
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
@@ -92,7 +88,7 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 
-# Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
+# Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
