@@ -6,5 +6,5 @@ skills:
 - Materials Science
 - Sustainability
 - Testing Processes
-main-image: IMG_9127.jpg 
+main-image: /IMG_9127.jpg 
 ---
