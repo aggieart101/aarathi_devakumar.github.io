@@ -15,7 +15,7 @@ title: Aarathi Devakumar's Personal Website # This is what shows up in the tab o
 name: Aarathi Devakumar
 headline: Sophomore Engineering Student at Texas A&M University
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Howdy! I'm Aarathi, a sophomore engineering student at Texas A&M University, aspiring to pursue a degree in mechanical engineering! 
+  Howdy! I'm Aarathi, a sophomore engineering student at Texas A&M University pursing a bachelor's in Mechatronics, Automation, and Robotics Engineering!
   My interests are in robotics and mechatronics, and I have experience in the subject starting from a young age. Ever since competing in middle school robotics with my Girl Scout Troop, I instantly fell in love with the process of designing a robot. I later researched various types of robots and was amazed by how they could help others live a better life and shape the world, and I strive to be part of that process. I have experience in machining, CAD, design, prototyping, and testing. I aim to discover ways to combine my technical experiences in robotics along with various fields such as defense or manufacturing, but particularly in fashion design, designing clothing that is stunning by aesthetics and automation. 
   As a woman in STEM, I also aim to empower girls to find an interest in STEM by participating and organizing outreach programs. I currently have an engineering instagram that shares my experiences as a female engineering student: girlypopengineer.
   Outside of robotics and design, I have a background in music. I have played piano for 13 years and the violin for 7 years. I continue playing the violin through the Texas A&M Chamber Orchestra and still play the piano for fun.
@@ -64,6 +64,11 @@ interests:
   - Social Media
   - Fashion Design
   - STEM Education
+  miscellaneous:
+  - Music Performance
+  - Violin
+  - Piano
+  - Italian (Elementary Proficiency)
   
   
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
