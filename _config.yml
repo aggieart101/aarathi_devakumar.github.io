@@ -55,7 +55,6 @@ skills:
   - Embedded Systems
   - Problem-Solving
   - Team/Project Management
-  - Social Media Content Creation
 interests:
   - Robotics and Mechatronics
   - Automation
@@ -69,13 +68,15 @@ interests:
   - Violin
   - Piano
   - Italian (Elementary Proficiency)
+  - Photography
+  - Social Media Content Creation
   
   
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/{mgvybzbg}
 
 
-# Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
+# Active theme (Update this to switch themes). Make sure to keep the indentation the same.
 colors: # this is the pink theme, i updated it
   text: "#2d2d2d"
   border: "#f8e2e2"
